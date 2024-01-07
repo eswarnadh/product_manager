@@ -21,7 +21,7 @@ function App() {
       <BrowserRouter>
         <nav className="navbar navbar-expand-lg navbar-light bg-light px-3">
           <span className="font-weight-bold h5">
-            <i className="fas fa-home px-2"></i> My App |
+            <i className="fas fa-home px-2"></i> My Sample App |
           </span>
 
           <div className="collapse navbar-collapse" id="navbarNav">
