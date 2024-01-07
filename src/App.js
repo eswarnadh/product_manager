@@ -17,7 +17,7 @@ function App() {
   }, []);
 
   return (
-    <AppContext.Provider value={useAppState()}>
+    <AppContext.Provider value={useAppState()}> 
       <BrowserRouter>
         <nav className="navbar navbar-expand-lg navbar-light bg-light px-3">
           <span className="font-weight-bold h5">
